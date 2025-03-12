@@ -235,17 +235,3 @@ python dislm.py config config.json slm
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-@misc{dislm2023,
-  author = {Author},
-  title = {DISLM: A Framework for Detecting and Correcting Reasoning Errors in Language Models},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/username/DISLM}}
-}
-``` 
